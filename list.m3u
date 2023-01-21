@@ -1,3 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CCTV4K-50P-HLG小果源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-50P-HLG小果源
 http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 tvg-name="CCTV4K-50P-HLG谷豆源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-50P-HLG谷豆源
+http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4K-25P-YSP源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-50P-YSP源
+http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4K-50P-HLG小果源-低码率" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-50P-HLG小果源-低码率
+http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4K-25P-CQYX源-低动态范围" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-25P-CQYX源-低动态范围
+http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV4K-25P-SDRBestv源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-25P-SDRBestv源
+http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
