@@ -11,3 +11,39 @@ http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
 http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4K-25P-SDRBestv源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-25P-SDRBestv源
 http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视频道",CCTV1-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视频道",CCTV2-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视频道",CCTV3-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视频道",CCTV4-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视频道",CCTV5-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视频道",CCTV5+-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视频道",CCTV6-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视频道",CCTV7-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视频道",CCTV8-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视频道",CCTV9-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视频道",CCTV10-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视频道",CCTV11-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视频道",CCTV12-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视频道",CCTV13-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视频道",CCTV14-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视频道",CCTV15-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视频道",CCTV16-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17-BESTV源" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视频道",CCTV17-BESTV源
+https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
